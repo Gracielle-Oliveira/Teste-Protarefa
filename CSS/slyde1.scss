@@ -1,0 +1,109 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+$text-color: #ECF0F1
+
+.topo {
+    background-color: #2980B9;
+    margin-top: 10vh;
+    
+}
+
+.topo p{
+    font-color: $text-color;
+    margin-left: 600px;
+}
+
+.menu{
+    margin-left: 20px;
+    
+}
+
+.leaf{
+    margin-left: 300px;
+
+    
+}
+
+.btn-face{
+    margin-left: 80%;
+}
+
+.btn-twitter{
+    margin-left: 80%;
+}
+
+.btn-twitter{
+    margin-left: 90%;
+}
+
+
+#image-main{
+    margin-top: 5%;    
+    margin-left: 10%;
+    align-items: center;
+}
+
+#btn-left { 
+    width: 30px;
+    height: 40px;
+    
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: 0px 2px 7px 0px rgba(184,175,184,1);
+    margin-left: 9%;
+    margin-top: -18%;
+    position: absolute;
+    z-index: 1;
+    cursor: pointer;
+
+}
+
+#btn-right {
+
+    width: 30px;
+    height: 40px;
+    background-color: white;
+    border-radius: 45%;
+    box-shadow: 0px 2px 7px 0px rgba(184,175,184,1);
+    /* margin-left:121%; */
+    margin-left:89%;
+    margin-top: -18%;
+    position: absolute;
+    z-index: 5;
+    cursor: pointer;
+
+}
+}
+
+.back{
+    background-color: dodgerblue;
+}
+
+.back h6{
+    margin-left: 85%;
+    font-size: 200%;
+    color:;
+}
+
+.writing{
+    background-color: #2C3E50;
+    justify-content: space-between;
+    display: flex;    
+}
+
+.writing p{
+    color: #ECF0F1;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 25%;
+}
+
+.writing img{
+    margin-left:10%;
+}

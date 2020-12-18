@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  list-style: none;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.topo {
+  background-color: #2980B9;
+  margin-top: 10vh;
+}
+/*# sourceMappingURL=slyde1.css.map */
